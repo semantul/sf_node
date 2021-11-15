@@ -1,0 +1,22 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "Description test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/semantul/sf_node.git"
+  },
+  "author": "Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semantul/sf_node/issues"
+  },
+  "homepage": "https://github.com/semantul/sf_node#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
